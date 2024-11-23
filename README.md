@@ -1,3 +1,5 @@
+![alt text](image.png)
+
 # Encryption and Decryption Script
 This Python script provides a simple implementation of a Caesar cipher, a basic encryption technique where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
 
